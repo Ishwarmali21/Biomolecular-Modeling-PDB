@@ -20,14 +20,11 @@ This project focuses on the structural analysis and visualization of various enz
 | Lysozyme | 1LYZ | Gallus gallus |
 | Trypsin | 2PTN | Bos taurus |
 | Catalase | 1DGF | Human |
-| Hexokinase | 1HKC | Homo sapiens |
-| HIV Protease | 1HVR | HIV-1 Virus |
 
 ---
 
 ## Tools & Resources
 - RCSB Protein Data Bank (PDB)
-- JSmol Viewer
 - Mol* Viewer
 - RasMol
 
